@@ -1,0 +1,41 @@
+# Core data processing
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+openpyxl>=3.1
+
+# Visualization
+plotly>=5.18
+matplotlib>=3.8
+seaborn>=0.13
+kaleido>=0.2.1
+
+# Dashboard
+streamlit>=1.30
+
+# API
+fastapi>=0.109
+uvicorn>=0.27
+
+# Validation
+pydantic>=2.5
+pandera>=0.18
+
+# Configuration
+python-dotenv>=1.0
+
+# Report generation
+jinja2>=3.1
+markdown>=3.5
+
+# Database (optional for scale)
+psycopg2-binary>=2.9
+sqlalchemy>=2.0
+redis>=5.0
+
+# Testing
+pytest>=8.0
+pytest-cov>=4.1
+
+# Utilities
+python-dateutil>=2.8
